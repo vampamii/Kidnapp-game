@@ -23,6 +23,6 @@ INK/INKLE
 Polishing
 
 # Created by: IDK
-Amanda Sarmientos - Artist
-Ian Smith - Sound
-Tina Lin - Story
+Arist, Amanda Sarmientos -  Sound,
+Ian Smith - Story,
+Tina Lin
